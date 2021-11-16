@@ -1,0 +1,45 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "High Energy Physics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Nuclear Physics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Astrophysics"
+    ],
+    [
+      "Science",
+      "Chemistry",
+      "Physical Chemistry"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "9d4c74a1-7bf7-1f68-6875-28eda966ba4a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Introduction to Plasma Physics I",
+  "course_description": "The plasma state dominates the visible universe, and is important in fields as diverse as Astrophysics and Controlled Fusion. Plasma is often referred to as \"the fourth state of matter.\" This course introduces the study of the nature and behavior of plasma. A variety of models to describe plasma behavior are presented.\n",
+  "department_numbers": [
+    "22",
+    "8",
+    "6"
+  ],
+  "extra_course_numbers": "8.613J,6.651J",
+  "primary_course_number": "22.611J",
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions"
+  ],
+  "title": "Course Metadata"
+}
